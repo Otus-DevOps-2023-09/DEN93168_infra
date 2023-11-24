@@ -1,2 +1,1 @@
-# DEN93168_infra
-DEN93168 Infra repository
+Измениля статус changed с 0, что обозночает без изминений, на статус 1, что были сделаны изминения, так предыдущей командой ,ansible app -m command -a 'rm -rf ~/reddit', мы удалили гаталог reddit

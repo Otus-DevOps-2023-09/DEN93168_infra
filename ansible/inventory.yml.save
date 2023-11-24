@@ -1,0 +1,26 @@
+  GNU nano 5.4                                            inventory                                                     
+[app]
+appserver ansible_host=130.193.38.3
+[db]
+dbserver ansible_host=130.193.38.180
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    [ Read 5 lines ]
+^G Help        ^O Записать    ^W Поиск       ^K Cut         ^T Execute     ^C Location    M-U Отмена     M-A Set Mark
+^X Выход       ^R ЧитФайл     ^\ Замена      ^U Paste       ^J Выровнять   ^_ К строке    M-E Повтор     M-6 Copy
